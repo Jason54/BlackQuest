@@ -1,0 +1,10 @@
+name: BlackQuest
+main: BlackTeam\BlackQuest\quests
+version: 1.0.0
+api: 3.2.0
+author: BlackTeam
+
+commands:
+  quest:
+    description: "BlackQuest!"
+    default: true
